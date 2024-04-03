@@ -1,5 +1,5 @@
-import { Footer, Navbar } from '../components';
-import { About, Explore, Feedback, Hero, Insights, World } from '../sections';
+import { Footer, Navbar } from "../components";
+import { About, Explore, Hero } from "../sections";
 
 const Home = () => (
   <div className="overflow-hidden bg-primary-black">

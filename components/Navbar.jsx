@@ -17,17 +17,17 @@ const Navbar = () => (
       className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}
     >
       <img
-        src="/search.svg"
+        src="/cc.png"
         alt="search"
-        className="w-[24px] h-[24px] object-contain"
+        className="w-[100px] object-contain"
       />
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         Conclave 2024
       </h2>
       <img
-        src="/menu.svg"
+        src="/iedc_white.png"
         alt="menu"
-        className="w-[24px] h-[24px] object-contain"
+        className="w-[100px] object-contain"
       />
     </div>
   </motion.nav>
