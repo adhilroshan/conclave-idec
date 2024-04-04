@@ -1,88 +1,99 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'Open Forum',
+    id: "world-1",
+    imgUrl: "/openforum.jpg",
+    title: "Open Forum",
+    description:
+      "Shaping the Future of Education: Navigate the Challenges, Embrace All. Join the Open Forumand Be a Part of the Educational Revolution!",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'Panel Discussion',
+    id: "world-2",
+    imgUrl: "/open.jpeg",
+    title: "Panel Discussion",
+    description:
+      "Education, Entreprenurship, Ai. Dive into insightful conversations led by experts. Gain unique perspectives and connect with thought leaders Dive into insightful conversations led by experts. Gain unique perspectives and connect with thought leaders",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Shark Tank',
+    id: "world-3",
+    imgUrl: "/invester.jpg",
+    title: "Shark Tank",
+    description:
+      "Transform your innovative ideas into reality, collaborate with creative minds, and learn from their experiences. Plus, meet potential investors to turn your entrepreneurial dreams into successful ventures. Ready to make a splash in the entrepreneurial world?",
+  },
+
+  {
+    id: "world-4",
+    imgUrl: "/venture.jpg",
+    title: "Venture Connect",
+    description:
+      "Venture Connect provides a platform where you can showcase your innovative ideas, connect with industry leaders, and collaborate with other forward thinking individuals. But the opportunities don't stop there!",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Venture Connect',
-  },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Entertainments',
+    id: "world-5",
+    imgUrl: "/entertainments.jpg",
+    title: "Entertainments",
+    description:
+      "Experience talent, creativity, and entertainment excellence in a captivating showcase. Don't miss the excitement!",
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "Find a world that suits you and you want to enter",
+  "Enter the world by reading basmalah to be safe",
+  "No need to beat around the bush, just stay on the gas and have fun",
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: "/vrpano.svg",
+    title: "A new world",
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      "we have the latest update with new world for you to try never mind",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: "/headset.svg",
+    title: "More realistic",
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      "In the latest update, your eyes are narrow, making the world more realistic than ever",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/planet-06.png",
+    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/planet-07.png",
+    title: "7 tips to easily master the madness of the Metaverse",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/planet-08.png",
+    title: "With one platform you can explore the whole world virtually",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];

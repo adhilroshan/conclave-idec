@@ -37,6 +37,11 @@ const Explore = () => {
           ))}
         </div>
       </motion.div>
+      <div className='w-full flex justify-center items-center mt-20'>
+        <a href="https://www.yepdesk.com/conclave2">
+          <p className='text-white hover:bg-slate-700 border-2 border-blue-500 p-4 rounded-3xl'>Register Now</p>
+        </a>
+      </div>
     </section>
   );
 };
