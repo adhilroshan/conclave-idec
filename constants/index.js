@@ -1,14 +1,14 @@
 export const exploreWorlds = [
   {
     id: "world-1",
-    imgUrl: "/openforum.jpg",
+    imgUrl: "/openforum.png",
     title: "Open Forum",
     description:
       "Shaping the Future of Education: Navigate the Challenges, Embrace All. Join the Open Forumand Be a Part of the Educational Revolution!",
   },
   {
     id: "world-2",
-    imgUrl: "/open.jpeg",
+    imgUrl: "/paneldisc.png",
     title: "Panel Discussion",
     description:
       "Education, Entreprenurship, Ai. Dive into insightful conversations led by experts. Gain unique perspectives and connect with thought leaders Dive into insightful conversations led by experts. Gain unique perspectives and connect with thought leaders",
@@ -23,14 +23,14 @@ export const exploreWorlds = [
 
   {
     id: "world-4",
-    imgUrl: "/venture.jpg",
+    imgUrl: "/venture.png",
     title: "Venture Connect",
     description:
       "Venture Connect provides a platform where you can showcase your innovative ideas, connect with industry leaders, and collaborate with other forward thinking individuals. But the opportunities don't stop there!",
   },
   {
     id: "world-5",
-    imgUrl: "/entertainments.jpg",
+    imgUrl: "/entertainment.png",
     title: "Entertainments",
     description:
       "Experience talent, creativity, and entertainment excellence in a captivating showcase. Don't miss the excitement!",

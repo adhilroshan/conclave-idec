@@ -21,9 +21,9 @@ const Navbar = () => (
         alt="search"
         className="w-[100px] object-contain"
       />
-      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
+      {/* <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         Conclave 2024
-      </h2>
+      </h2> */}
       <img
         src="/iedc_white.png"
         alt="menu"
