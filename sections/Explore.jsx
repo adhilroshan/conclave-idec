@@ -46,7 +46,7 @@ const Explore = () => {
         <img className='rounded-xl mt-10' src="banner_shark.png" alt="banner" />
       </div>
       <div className='w-full flex justify-center items-center mt-20'>
-        <a href="https://www.yepdesk.com/conclave2">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1iPvHvbNm9YUNt3yOk7eTkaiavk5dLVxMTFBRv93O1mjLCw/viewform">
           <p className='text-white hover:bg-slate-700 border-2 border-blue-500 p-4 rounded-3xl'>Register Now</p>
         </a>
       </div>
