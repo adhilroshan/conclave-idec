@@ -7,18 +7,12 @@ export const exploreWorlds = [
       "Shaping the Future of Education: Navigate the Challenges, Embrace All. Join the Open Forumand Be a Part of the Educational Revolution!",
   },
   {
+    // eslint-disable-next-line quotes
     id: "world-2",
     imgUrl: "/paneldisc.png",
     title: "Panel Discussion",
     description:
       "Education, Entreprenurship, Ai. Dive into insightful conversations led by experts. Gain unique perspectives and connect with thought leaders Dive into insightful conversations led by experts. Gain unique perspectives and connect with thought leaders",
-  },
-  {
-    id: "world-3",
-    imgUrl: "/invester.jpg",
-    title: "Shark Tank",
-    description:
-      "Transform your innovative ideas into reality, collaborate with creative minds, and learn from their experiences. Plus, meet potential investors to turn your entrepreneurial dreams into successful ventures. Ready to make a splash in the entrepreneurial world?",
   },
 
   {

@@ -44,4 +44,19 @@ const Hero = () => (
     </motion.div>
   </section>
 );
-export default Hero;
+// export default Hero;
+
+// const Hero = () => {
+//   return (
+//     <section className="h-screen space-y-5 text-white flex flex-col items-center">
+//       <p className="text-9xl font-extrabold">
+//         Conclave 2024
+//       </p>
+//       <p className="text-2xl">
+//         April 18 | College of Engineering, Vadakara
+//       </p>
+//     </section>
+//   )
+// }
+
+// export default Hero;
