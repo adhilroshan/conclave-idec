@@ -44,7 +44,7 @@ const Hero = () => (
     </motion.div>
   </section>
 );
-// export default Hero;
+export default Hero;
 
 // const Hero = () => {
 //   return (
