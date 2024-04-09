@@ -12,6 +12,7 @@ const MyApp = ({ Component, pageProps }) => (
         rel="stylesheet"
         href="https://stijndv.com/fonts/Eudoxus-Sans.css"
       />
+      <link rel="icon" type="image/x-icon" href="/conclave.png" />
     </Head>
     <Component {...pageProps} />
   </>
