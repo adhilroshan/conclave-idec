@@ -42,9 +42,10 @@ const Explore = () => {
           <p className='text-white hover:bg-slate-700 border-2 border-blue-500 p-4 rounded-3xl'>Buy Ticket</p>
         </a>
       </div>
-      <p className='text-4xl lg:text-6xl font-bold text-white w-full flex justify-center mt-16'>
-        Shark Hunt
-      </p>
+      <TitleText
+        title={<>Shark Hunt <br className="hidden md:block" /> </>}
+        textStyles="text-center"
+      />
       <div>
         <img className='rounded-xl mt-10' src="banner_shark.png" alt="banner" />
       </div>
