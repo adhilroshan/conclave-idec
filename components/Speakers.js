@@ -21,9 +21,12 @@ const Speakers = () => {
                         <br />
                         <span className='text-xl'>Marketing Professional, </span><span className='text-xl'>RevOps Manager</span>
                     </p>
+                    <img className='w-[200px] h-[200px] lg:w-[300px] lg:h-[300px] rounded-3xl' src="/images/ashuthosh.png" alt="ashuthosh" />
+
                 </div>
 
-                <div className="inline-block h-[1250px] min-h-[1em] w-0.5 self-stretch bg-white/10"></div>
+                <div className="inline-block h-[1500px] min-h-[1em] w-0.5 self-stretch bg-white/10"></div>
+
                 <div className='flex flex-col'>
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Ananya R
                         <br />
@@ -35,7 +38,10 @@ const Speakers = () => {
                         <span className='text-xl'>Founder of SPT online classes </span>
                     </p>
                     <img className='w-[200px] h-[200px] lg:w-[300px] lg:h-[300px] rounded-3xl' src="/images/vishwa.png" alt="ananya" />
-
+                    <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Ashuthosh Sarkar
+                        <br />
+                        <span className='text-xl'>Proffesor & Executive Director,</span><span className='text-xl'>IIMK LIVE</span>
+                    </p>
                 </div>
             </div>
         </div >
