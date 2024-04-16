@@ -40,7 +40,7 @@ const Speakers = () => {
                     <img className='w-[200px] h-[200px] lg:w-[300px] lg:h-[300px] rounded-3xl' src="/images/vishwa.png" alt="ananya" />
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Ashuthosh Sarkar
                         <br />
-                        <span className='text-xl'>Proffesor & Executive Director,</span><span className='text-xl'>IIMK LIVE</span>
+                        <span className='text-xl'>Professor & Executive Director,</span><span className='text-xl'>IIMK LIVE</span>
                     </p>
                 </div>
             </div>
