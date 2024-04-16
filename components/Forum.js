@@ -20,7 +20,7 @@ const Forum = () => {
                     <img className='w-[200px] h-[200px] lg:w-[300px] lg:h-[300px] rounded-3xl' src="/forum/rahul.png" alt="ananya" />
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Rizwan Ramzan
                         <br />
-                        <span className='text-xl'>CEO, Haris&Co. Accademy </span>
+                        <span className='text-xl'>CEO, Haris&Co. Academy </span>
                     </p>
                 </div>
 
