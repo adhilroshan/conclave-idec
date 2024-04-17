@@ -66,7 +66,7 @@ const Mobile = () => {
                 title={<>Panel Discussion<br className="hidden md:block" /> </>}
                 textStyles="text-center"
             />
-            <div className='flex pt-10 gap-4'>
+            <div className='flex pt-10 gap-2'>
                 <div className='flex flex-col'>
                     <img className='w-[200px] h-[200px] rounded-3xl' src="/images/ananya.png" alt="ananya" />
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Umer Abdussalam
@@ -87,7 +87,7 @@ const Mobile = () => {
                 <div className='flex flex-col'>
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Ananya R
                         <br />
-                        <span className='text-xl'>Global Community Manager, </span><span className='text-xl'> She Loves Tech</span>
+                        <span className='text-3xl'>Global Community Manager, </span><span className='text-xl'> She Loves Tech</span>
                     </p>
                     <img className='w-[200px] h-[200px] rounded-3xl' src="/images/umer abdussalam-1.png" alt="ananya" />
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Paulose Thomas

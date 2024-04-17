@@ -65,7 +65,7 @@ const Mobile = () => {
                 title={<>Open Forum<br className="hidden md:block" /> </>}
                 textStyles="text-center"
             />
-            <div className='flex pt-10 gap-4'>
+            <div className='flex pt-10 gap-2'>
                 <div className='flex flex-col'>
                     <img className='w-[200px] h-[200px] lg:w-[300px] lg:h-[300px] rounded-3xl' src="/forum/binduu.png" alt="ananya" />
                     <p className='text-4xl h-[300px] flex justify-center flex-col text-white'>Prof. Damodaran V K
