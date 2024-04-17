@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 export const exploreWorlds = [
   {
     id: "world-1",
